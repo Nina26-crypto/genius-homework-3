@@ -826,6 +826,7 @@ gap: 16px;
     padding: 20px 0;
     background-color: #011F4A66;
     z-index: 1 ;
+    transition: opacity 0.2s, visibility 0.2s;
 }
 
 .backdrop.is-hidden {
